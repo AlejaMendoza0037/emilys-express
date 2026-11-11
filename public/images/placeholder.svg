@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Imagen próximamente">
+  <rect width="400" height="300" fill="#ebe9e4"/>
+  <circle cx="200" cy="130" r="44" fill="none" stroke="#a07f30" stroke-width="2"/>
+  <text x="200" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="52" fill="#a07f30">E</text>
+  <text x="200" y="228" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" letter-spacing="3" fill="#7a6e5a">IMAGEN PRÓXIMAMENTE</text>
+</svg>
